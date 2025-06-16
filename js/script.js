@@ -12,10 +12,10 @@ console.log(newArray)
 // მომხმარებლის პასუხი სწორია, დაბეჭდეთ სწორია, თუ არა მაშინ დაბეჭდეთ არასწორია.
 
 
-// let citizen = 'tbilisi';
-// let answer =prompt('საქართველოს დედაქალაქი');
-// let correct = (answer.toLowerCase()===citizen) ? 'სწორია' : 'არასწორია' 
-// console.log(correct);
+let citizen = 'tbilisi';
+let answer =prompt('საქართველოს დედაქალაქი');
+let correct = (answer.toLowerCase()===citizen) ? 'სწორია' : 'არასწორია' 
+console.log(correct);
 
 // 3. მოცემულია მასივი, შემდეგი მნიშვნელობებით - let array1 =[“hello1”, 14,24, “hello2”] გამოიტანეთ მარტო ციფრები მეთოდის საშუალებით;
 
